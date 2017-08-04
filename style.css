@@ -1,0 +1,29 @@
+body {
+  text-align: left;
+  background-color: seagreen;
+}
+#heading {
+  text-align: center;
+  font-size: 60px;
+}
+nav {
+  text-align: center;
+  background-color: black;
+  color: blue;
+  border-color: black;
+  border-width: thick;
+  border-style: groove;
+  border-radius: 10px;
+}
+#list {
+  font-size: 20px;
+}
+#li {
+  font-size: 30px;
+}
+img {
+  border-color: burlywood;
+  border-width: thick;
+  border-style: groove;
+  border-radius: 10px;
+}

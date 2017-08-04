@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: seagreen;
+}
+img {
+  border-color: burlywood;
+  border-width: thick;
+  border-style: groove;
+  border-radius: 10px;
+}
+#nav {
+  text-align: center;
+  background-color: black;
+  color: blue;
+  border-color: black;
+  border-width: thick;
+  border-style: groove;
+  border-radius: 10px;
+}
+navbuttons {
+  color: black;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+h5 {
+  font-size: 25px;
+}
